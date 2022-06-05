@@ -1,0 +1,681 @@
+﻿<Mappings><Entry OldName="Lmaowtf.Form1.components" NewName="A.cb2fb9d78c552919d81930b5541db8df5.ceac0d01f41575fc3892eb464c6dc47fb" />
+<Entry OldName="Lmaowtf.Form1.siticonePictureBox1" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c3655fe73cf98ad603e01093ad9cd7370" />
+<Entry OldName="Lmaowtf.Form1.siticonePanel1" NewName="A.cb2fb9d78c552919d81930b5541db8df5.cf73e0734e83b829028a3201f92a4c579" />
+<Entry OldName="Lmaowtf.Form1.siticonePanel2" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c73df2bbc182e7559dd4b256012c9bda8" />
+<Entry OldName="Lmaowtf.Form1.siticonePanel3" NewName="A.cb2fb9d78c552919d81930b5541db8df5.cfe194b0ea3e2b0aec8de3a8c53d321f8" />
+<Entry OldName="Lmaowtf.Form1.timer1" NewName="A.cb2fb9d78c552919d81930b5541db8df5.cc4fc747725289afe92985952fa72fc5a" />
+<Entry OldName="Lmaowtf.Form1.timer2" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c1f9fc781867223531ffc5360f56bb178" />
+<Entry OldName="Lmaowtf.Form1.label1" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c6cc40b35d806d3e6f2447af81e045016" />
+<Entry OldName="Lmaowtf.Properties.Resources.resourceMan" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b.c1428cda1f21585a7a74eb6e9dca20eb5" />
+<Entry OldName="Lmaowtf.Properties.Resources.resourceCulture" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b.c08e22dd582202934f90326cb9ed13fba" />
+<Entry OldName="Costura.AssemblyLoader.nullCacheLock" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c107cd02756a7f371228f3c67dacf2a1c" />
+<Entry OldName="Costura.AssemblyLoader.nullCache" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c6620c3c877d72ac12e126082cc6d07b8" />
+<Entry OldName="Costura.AssemblyLoader.assemblyNames" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c921d8ed863e113259fd3b0b9aa646413" />
+<Entry OldName="Costura.AssemblyLoader.symbolNames" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.ce1d52faaa85fa0cb66ce54d2cd23dd25" />
+<Entry OldName="Costura.AssemblyLoader.isAttached" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.cddfdb2d43ed93a3ac3134cbedf828704" />
+<Entry OldName="Lmaowtf_ProcessedByFody.FodyVersion" NewName="A.c5694270f8bd73e50518a019aab623e90.c3cd21ffc8782351d563d9ce94ada2a7a" />
+<Entry OldName="Lmaowtf_ProcessedByFody.Costura" NewName="A.c5694270f8bd73e50518a019aab623e90.c00c1ba60abe62520b8708dc1d87d96d5" />
+<Entry OldName="Lmaowtf.Form1..ctor()" NewName="A.cb2fb9d78c552919d81930b5541db8df5..ctor()" />
+<Entry OldName="Lmaowtf.Form1.Form1_Load(Object sender, EventArgs e)" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c5848374636a9d6e3cf3ecdba2838e8a1(Object , EventArgs )" />
+<Entry OldName="Lmaowtf.Form1.timer1_Tick(Object sender, EventArgs e)" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c55e3fd2769412a7d234a7db1deb37b5c(Object , EventArgs )" />
+<Entry OldName="Lmaowtf.Form1.timer2_Tick(Object sender, EventArgs e)" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c974420323eed740c115fdeb6acc5b304(Object , EventArgs )" />
+<Entry OldName="Lmaowtf.Form1.Dispose(Boolean disposing)" NewName="A.cb2fb9d78c552919d81930b5541db8df5.Dispose(Boolean disposing)" />
+<Entry OldName="Lmaowtf.Form1.InitializeComponent()" NewName="A.cb2fb9d78c552919d81930b5541db8df5.c397d4c2896fc782ddf67d050adc3d24d()" />
+<Entry OldName="Lmaowtf.Program.Main()" NewName="A.c31970092a71789a261a4fa0c24f1eb5f.ce2a669e3c07c85c476d76f388d2d5126()" />
+<Entry OldName="Lmaowtf.Properties.Resources..ctor()" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b..ctor()" />
+<Entry OldName="Lmaowtf.Properties.Resources.get_ResourceManager()" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b.get_ResourceManager()" />
+<Entry OldName="Lmaowtf.Properties.Resources.get_Culture()" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b.get_Culture()" />
+<Entry OldName="Lmaowtf.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b.set_Culture(CultureInfo value)" />
+<Entry OldName="Lmaowtf.Properties.Resources.get__4FACFCC_converted()" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b.get__4FACFCC_converted()" />
+<Entry OldName="Costura.AssemblyLoader..cctor()" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce..cctor()" />
+<Entry OldName="Costura.AssemblyLoader.CultureToString(CultureInfo culture)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c2d250bfe10685cedf69f869d4cc749e0(CultureInfo )" />
+<Entry OldName="Costura.AssemblyLoader.ReadExistingAssembly(AssemblyName name)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c2c9a1b4542b5c7c73a3d2d3e52793dcd(AssemblyName )" />
+<Entry OldName="Costura.AssemblyLoader.CopyTo(Stream source, Stream destination)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c8208316713a257cecf395f69af0d6546(Stream , Stream )" />
+<Entry OldName="Costura.AssemblyLoader.LoadStream(String fullName)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c451668848f89a74167baa1ad7ed7390e(String )" />
+<Entry OldName="Costura.AssemblyLoader.LoadStream(Dictionary`2 resourceNames, String name)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c451668848f89a74167baa1ad7ed7390e(Dictionary`2 , String )" />
+<Entry OldName="Costura.AssemblyLoader.ReadStream(Stream stream)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.cb39ee54dce24df90509debcca6568629(Stream )" />
+<Entry OldName="Costura.AssemblyLoader.ReadFromEmbeddedResources(Dictionary`2 assemblyNames, Dictionary`2 symbolNames, AssemblyName requestedAssemblyName)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c29790080f2b87e89f473898aeadf0c0d(Dictionary`2 , Dictionary`2 , AssemblyName )" />
+<Entry OldName="Costura.AssemblyLoader.ResolveAssembly(Object sender, ResolveEventArgs e)" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c48f41c5f1dcb2f7d02d3f051238043fa(Object , ResolveEventArgs )" />
+<Entry OldName="Costura.AssemblyLoader.Attach()" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce.c60a10f7bb9de1224dc0d51317ff272e2()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Stop()" NewName="A.c555371fd28f8d3d7d6845b747b6c4891..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Stop()" NewName="A.c555371fd28f8d3d7d6845b747b6c4891..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Stop()" NewName="A.c555371fd28f8d3d7d6845b747b6c4891.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Stop()" NewName="A.c555371fd28f8d3d7d6845b747b6c4891.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Hide()" NewName="A.c8282716b40085361158e3564d7494471..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Hide()" NewName="A.c8282716b40085361158e3564d7494471..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Hide()" NewName="A.c8282716b40085361158e3564d7494471.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Hide()" NewName="A.c8282716b40085361158e3564d7494471.ca0f1f9e562c2cdba25c7d0352229bcbe(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Hide()" NewName="A.c8282716b40085361158e3564d7494471.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Start()" NewName="A.c2f7b801297b6126c83d67715e20c6767..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Start()" NewName="A.c2f7b801297b6126c83d67715e20c6767..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Start()" NewName="A.c2f7b801297b6126c83d67715e20c6767.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.Start()" NewName="A.c2f7b801297b6126c83d67715e20c6767.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Width()" NewName="A.cab0d1a14ecb5f5373a48925e9989537b..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Width()" NewName="A.cab0d1a14ecb5f5373a48925e9989537b..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Width()" NewName="A.cab0d1a14ecb5f5373a48925e9989537b.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Width()" NewName="A.cab0d1a14ecb5f5373a48925e9989537b.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Visible(Boolean )" NewName="A.c4f6855cddf8d9005e9419e7f5139ad71..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Visible(Boolean )" NewName="A.c4f6855cddf8d9005e9419e7f5139ad71..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Visible(Boolean )" NewName="A.c4f6855cddf8d9005e9419e7f5139ad71.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Visible(Boolean )" NewName="A.c4f6855cddf8d9005e9419e7f5139ad71.ce932b5e403f2cb3f5567910603710a7e(Object , Boolean )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.GetProcessesByName(String )" NewName="A.cca7086900ca8569be7de1ec31a3a9b2f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.GetProcessesByName(String )" NewName="A.cca7086900ca8569be7de1ec31a3a9b2f..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Process.GetProcessesByName(String )" NewName="A.cca7086900ca8569be7de1ec31a3a9b2f.Invoke(String )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.GetProcessesByName(String )" NewName="A.cca7086900ca8569be7de1ec31a3a9b2f.ca0f1f9e562c2cdba25c7d0352229bcbe(String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Width(Int32 )" NewName="A.c65c0d26e3b5c36c096ff678f810be74f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Width(Int32 )" NewName="A.c65c0d26e3b5c36c096ff678f810be74f..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Width(Int32 )" NewName="A.c65c0d26e3b5c36c096ff678f810be74f.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Width(Int32 )" NewName="A.c65c0d26e3b5c36c096ff678f810be74f.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 )" />
+<Entry OldName="Proxy_System.ComponentModel.Component.Dispose()" NewName="A.c56de7458a89018526d1d8fc5a679068c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ComponentModel.Component.Dispose()" NewName="A.c56de7458a89018526d1d8fc5a679068c..cctor()" />
+<Entry OldName="Proxy_System.ComponentModel.Component.Dispose()" NewName="A.c56de7458a89018526d1d8fc5a679068c.Invoke(Object )" />
+<Entry OldName="Proxy_System.ComponentModel.Component.Dispose()" NewName="A.c56de7458a89018526d1d8fc5a679068c.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.WaitForExit()" NewName="A.c994b517bf3c542f311dc0d6df80d6043..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.WaitForExit()" NewName="A.c994b517bf3c542f311dc0d6df80d6043..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Process.WaitForExit()" NewName="A.c994b517bf3c542f311dc0d6df80d6043.Invoke(Object )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.WaitForExit()" NewName="A.c994b517bf3c542f311dc0d6df80d6043.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Kill()" NewName="A.c1f1054554f3e074fb0452aacb2af14bd..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Kill()" NewName="A.c1f1054554f3e074fb0452aacb2af14bd..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Kill()" NewName="A.c1f1054554f3e074fb0452aacb2af14bd.Invoke(Object )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Kill()" NewName="A.c1f1054554f3e074fb0452aacb2af14bd.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.c1b14021b0f01d74ab479a42fe4b12b80..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.c1b14021b0f01d74ab479a42fe4b12b80..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.c1b14021b0f01d74ab479a42fe4b12b80.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.c1b14021b0f01d74ab479a42fe4b12b80.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , Boolean )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.ccd16244087bc41d584146ccf79cdf006..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.ccd16244087bc41d584146ccf79cdf006..cctor()" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.ccd16244087bc41d584146ccf79cdf006.Invoke(Object )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.ccd16244087bc41d584146ccf79cdf006.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.c6570b300bdb0fc7aa2a8462f6b645532..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.c6570b300bdb0fc7aa2a8462f6b645532..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.c6570b300bdb0fc7aa2a8462f6b645532.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.c6570b300bdb0fc7aa2a8462f6b645532.ca0f1f9e562c2cdba25c7d0352229bcbe(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.cc06410bc3687f5136e57f98e503a5b6d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.cc06410bc3687f5136e57f98e503a5b6d..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.cc06410bc3687f5136e57f98e503a5b6d.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.cc06410bc3687f5136e57f98e503a5b6d.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.cc06410bc3687f5136e57f98e503a5b6d.ce932b5e403f2cb3f5567910603710a7e(Object , Boolean )" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.EndInit()" NewName="A.c56266f47bf6abeeace6062367a9a07a1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.EndInit()" NewName="A.c56266f47bf6abeeace6062367a9a07a1..cctor()" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.EndInit()" NewName="A.c56266f47bf6abeeace6062367a9a07a1.Invoke(Object )" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.EndInit()" NewName="A.c56266f47bf6abeeace6062367a9a07a1.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.cb4a9422585561638468e85856a4e229c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.cb4a9422585561638468e85856a4e229c..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.cb4a9422585561638468e85856a4e229c.Invoke(Object , EventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.cb4a9422585561638468e85856a4e229c.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , EventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.c78cf8e5b5706c33d2c2dbf5be4f10076..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.c78cf8e5b5706c33d2c2dbf5be4f10076..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.c78cf8e5b5706c33d2c2dbf5be4f10076.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.c78cf8e5b5706c33d2c2dbf5be4f10076.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.c4215b6509462da45864b488abf2302b1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.c4215b6509462da45864b488abf2302b1..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.c4215b6509462da45864b488abf2302b1.Invoke(Object , FormStartPosition )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.c4215b6509462da45864b488abf2302b1.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , FormStartPosition )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.cbc58ec2e713497c8aba044377e1fca07..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.cbc58ec2e713497c8aba044377e1fca07..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.cbc58ec2e713497c8aba044377e1fca07.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.cbc58ec2e713497c8aba044377e1fca07.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.cbc58ec2e713497c8aba044377e1fca07.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.c95034fe1d9a5ffe9609a098d948b63fc..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.c95034fe1d9a5ffe9609a098d948b63fc..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.c95034fe1d9a5ffe9609a098d948b63fc.Invoke(Object , Icon )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.c95034fe1d9a5ffe9609a098d948b63fc.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , Icon )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.c3d78cf6c480e7296116f184c4dd64adf..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.c3d78cf6c480e7296116f184c4dd64adf..cctor()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.c3d78cf6c480e7296116f184c4dd64adf.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.c3d78cf6c480e7296116f184c4dd64adf.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.caa3203b58f47f2db74726523968bc8f6..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.caa3203b58f47f2db74726523968bc8f6..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.caa3203b58f47f2db74726523968bc8f6.Invoke(Object , FormBorderStyle )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.caa3203b58f47f2db74726523968bc8f6.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , FormBorderStyle )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_ForeColor(Color )" NewName="A.cb73f8b7aa4c99f2ee605b7d4e83bfcaa..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_ForeColor(Color )" NewName="A.cb73f8b7aa4c99f2ee605b7d4e83bfcaa..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_ForeColor(Color )" NewName="A.cb73f8b7aa4c99f2ee605b7d4e83bfcaa.Invoke(Object , Color )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_ForeColor(Color )" NewName="A.cb73f8b7aa4c99f2ee605b7d4e83bfcaa.ce932b5e403f2cb3f5567910603710a7e(Object , Color )" />
+<Entry OldName="Proxy_System.Drawing.Color.get_White()" NewName="A.ce773e287d93ce3695200296998145888..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Drawing.Color.get_White()" NewName="A.ce773e287d93ce3695200296998145888..cctor()" />
+<Entry OldName="Proxy_System.Drawing.Color.get_White()" NewName="A.ce773e287d93ce3695200296998145888.Invoke()" />
+<Entry OldName="Proxy_System.Drawing.Color.get_White()" NewName="A.ce773e287d93ce3695200296998145888.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.c7af2c53c1423cc3f24fd6154dd6cc19e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.c7af2c53c1423cc3f24fd6154dd6cc19e..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.c7af2c53c1423cc3f24fd6154dd6cc19e.Invoke(Object , Control )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.c7af2c53c1423cc3f24fd6154dd6cc19e.ce932b5e403f2cb3f5567910603710a7e(Object , Control )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.c31397950e5573b0b2a02147509737c53..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.c31397950e5573b0b2a02147509737c53..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.c31397950e5573b0b2a02147509737c53.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.c31397950e5573b0b2a02147509737c53.ca0f1f9e562c2cdba25c7d0352229bcbe(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.c31397950e5573b0b2a02147509737c53.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.c50221701c61d511ebf79e693a803dda3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.c50221701c61d511ebf79e693a803dda3..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.c50221701c61d511ebf79e693a803dda3.Invoke(Object , Size )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.c50221701c61d511ebf79e693a803dda3.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , Size )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackColor(Color )" NewName="A.cce4f709e92db43cab50cf96507456ae3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackColor(Color )" NewName="A.cce4f709e92db43cab50cf96507456ae3..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackColor(Color )" NewName="A.cce4f709e92db43cab50cf96507456ae3.Invoke(Object , Color )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackColor(Color )" NewName="A.cce4f709e92db43cab50cf96507456ae3.ce932b5e403f2cb3f5567910603710a7e(Object , Color )" />
+<Entry OldName="Proxy_System.Drawing.Color.FromArgb(Int32 , Int32 , Int32 )" NewName="A.c7f897ac8b17b15a75a588a3644ccbefa..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Drawing.Color.FromArgb(Int32 , Int32 , Int32 )" NewName="A.c7f897ac8b17b15a75a588a3644ccbefa..cctor()" />
+<Entry OldName="Proxy_System.Drawing.Color.FromArgb(Int32 , Int32 , Int32 )" NewName="A.c7f897ac8b17b15a75a588a3644ccbefa.Invoke(Int32 , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Drawing.Color.FromArgb(Int32 , Int32 , Int32 )" NewName="A.c7f897ac8b17b15a75a588a3644ccbefa.ca0f1f9e562c2cdba25c7d0352229bcbe(Int32 , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.cd12b6db4e7e2890e1dfe60cee8b29ab5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.cd12b6db4e7e2890e1dfe60cee8b29ab5..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.cd12b6db4e7e2890e1dfe60cee8b29ab5.Invoke(Object , AutoScaleMode )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.cd12b6db4e7e2890e1dfe60cee8b29ab5.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , AutoScaleMode )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.cbc93c5766f32258db4462a1f2b09c1c1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.cbc93c5766f32258db4462a1f2b09c1c1..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.cbc93c5766f32258db4462a1f2b09c1c1.Invoke(Object , SizeF )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.cbc93c5766f32258db4462a1f2b09c1c1.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , SizeF )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.c606f2b67348f69bb4127c8a099e99d21..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.c606f2b67348f69bb4127c8a099e99d21..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.c606f2b67348f69bb4127c8a099e99d21.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.c606f2b67348f69bb4127c8a099e99d21.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.c52627cfb7592e5de387ff8bebb320cd4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.c52627cfb7592e5de387ff8bebb320cd4..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.c52627cfb7592e5de387ff8bebb320cd4.Invoke(Object , Size )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.c52627cfb7592e5de387ff8bebb320cd4.ce932b5e403f2cb3f5567910603710a7e(Object , Size )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.cff283c5472501bef7f657b40a5e43cb9..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.cff283c5472501bef7f657b40a5e43cb9..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.cff283c5472501bef7f657b40a5e43cb9.Invoke(Object , Point )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.cff283c5472501bef7f657b40a5e43cb9.ce932b5e403f2cb3f5567910603710a7e(Object , Point )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.c95c55f404bb96b0453a82bdf8bb02e9a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.c95c55f404bb96b0453a82bdf8bb02e9a..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.c95c55f404bb96b0453a82bdf8bb02e9a.Invoke(Object , Font )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.c95c55f404bb96b0453a82bdf8bb02e9a.ce932b5e403f2cb3f5567910603710a7e(Object , Font )" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.c92b88059f916454dc2a639b05e5eba0e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.c92b88059f916454dc2a639b05e5eba0e..cctor()" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.c92b88059f916454dc2a639b05e5eba0e.Invoke(String , Single , FontStyle , GraphicsUnit , Byte )" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.c92b88059f916454dc2a639b05e5eba0e.ca0f1f9e562c2cdba25c7d0352229bcbe(String , Single , FontStyle , GraphicsUnit , Byte )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.cd002fa8db9c3fae33c49d72856da5a54..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.cd002fa8db9c3fae33c49d72856da5a54..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.cd002fa8db9c3fae33c49d72856da5a54.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.cd002fa8db9c3fae33c49d72856da5a54.ce932b5e403f2cb3f5567910603710a7e(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.add_Tick(EventHandler )" NewName="A.ce66ce1b2b9dc533fca4e78da97c7cb65..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.add_Tick(EventHandler )" NewName="A.ce66ce1b2b9dc533fca4e78da97c7cb65..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.add_Tick(EventHandler )" NewName="A.ce66ce1b2b9dc533fca4e78da97c7cb65.Invoke(Object , EventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.add_Tick(EventHandler )" NewName="A.ce66ce1b2b9dc533fca4e78da97c7cb65.ce932b5e403f2cb3f5567910603710a7e(Object , EventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Interval(Int32 )" NewName="A.cdbac1308f5644e0cf71f4a3d0fae4b14..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Interval(Int32 )" NewName="A.cdbac1308f5644e0cf71f4a3d0fae4b14..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Interval(Int32 )" NewName="A.cdbac1308f5644e0cf71f4a3d0fae4b14.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Interval(Int32 )" NewName="A.cdbac1308f5644e0cf71f4a3d0fae4b14.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Enabled(Boolean )" NewName="A.cfe4bafecf8190419bb039523e58593ed..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Enabled(Boolean )" NewName="A.cfe4bafecf8190419bb039523e58593ed..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Enabled(Boolean )" NewName="A.cfe4bafecf8190419bb039523e58593ed.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer.set_Enabled(Boolean )" NewName="A.cfe4bafecf8190419bb039523e58593ed.ce932b5e403f2cb3f5567910603710a7e(Object , Boolean )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.Suite.ShadowDecoration.set_Parent(Control )" NewName="A.c4d1b3e02382963e027608fc2b6a1e202..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.Suite.ShadowDecoration.set_Parent(Control )" NewName="A.c4d1b3e02382963e027608fc2b6a1e202..cctor()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.Suite.ShadowDecoration.set_Parent(Control )" NewName="A.c4d1b3e02382963e027608fc2b6a1e202.Invoke(Object , Control )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.Suite.ShadowDecoration.set_Parent(Control )" NewName="A.c4d1b3e02382963e027608fc2b6a1e202.ce932b5e403f2cb3f5567910603710a7e(Object , Control )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel.get_ShadowDecoration()" NewName="A.c9674151d6ab194f9cd31a0dd7958290e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel.get_ShadowDecoration()" NewName="A.c9674151d6ab194f9cd31a0dd7958290e..cctor()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel.get_ShadowDecoration()" NewName="A.c9674151d6ab194f9cd31a0dd7958290e.Invoke(Object )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel.get_ShadowDecoration()" NewName="A.c9674151d6ab194f9cd31a0dd7958290e.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabStop(Boolean )" NewName="A.c6cd9a64c5e940ca917b0d5ac09a8e5d1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabStop(Boolean )" NewName="A.c6cd9a64c5e940ca917b0d5ac09a8e5d1..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabStop(Boolean )" NewName="A.c6cd9a64c5e940ca917b0d5ac09a8e5d1.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabStop(Boolean )" NewName="A.c6cd9a64c5e940ca917b0d5ac09a8e5d1.ce932b5e403f2cb3f5567910603710a7e(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabIndex(Int32 )" NewName="A.cb8b09ec1f490e707737153820245d205..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabIndex(Int32 )" NewName="A.cb8b09ec1f490e707737153820245d205..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabIndex(Int32 )" NewName="A.cb8b09ec1f490e707737153820245d205.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_TabIndex(Int32 )" NewName="A.cb8b09ec1f490e707737153820245d205.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_SizeMode(PictureBoxSizeMode )" NewName="A.c87dedf7b4abc107ec69196fb7ad5bfcb..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_SizeMode(PictureBoxSizeMode )" NewName="A.c87dedf7b4abc107ec69196fb7ad5bfcb..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_SizeMode(PictureBoxSizeMode )" NewName="A.c87dedf7b4abc107ec69196fb7ad5bfcb.Invoke(Object , PictureBoxSizeMode )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_SizeMode(PictureBoxSizeMode )" NewName="A.c87dedf7b4abc107ec69196fb7ad5bfcb.ce932b5e403f2cb3f5567910603710a7e(Object , PictureBoxSizeMode )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox.get_ShadowDecoration()" NewName="A.c1ebbba7db2e1a98aa6d922d96942deac..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox.get_ShadowDecoration()" NewName="A.c1ebbba7db2e1a98aa6d922d96942deac..cctor()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox.get_ShadowDecoration()" NewName="A.c1ebbba7db2e1a98aa6d922d96942deac.Invoke(Object )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox.get_ShadowDecoration()" NewName="A.c1ebbba7db2e1a98aa6d922d96942deac.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_Image(Image )" NewName="A.c556b552814d847b104a2997e7653908d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_Image(Image )" NewName="A.c556b552814d847b104a2997e7653908d..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_Image(Image )" NewName="A.c556b552814d847b104a2997e7653908d.Invoke(Object , Image )" />
+<Entry OldName="Proxy_System.Windows.Forms.PictureBox.set_Image(Image )" NewName="A.c556b552814d847b104a2997e7653908d.ce932b5e403f2cb3f5567910603710a7e(Object , Image )" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get__4FACFCC_converted()" NewName="A.c5c30deb045e5b7b226f5a562ce1056ad..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get__4FACFCC_converted()" NewName="A.c5c30deb045e5b7b226f5a562ce1056ad..cctor()" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get__4FACFCC_converted()" NewName="A.c5c30deb045e5b7b226f5a562ce1056ad.Invoke()" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get__4FACFCC_converted()" NewName="A.c5c30deb045e5b7b226f5a562ce1056ad.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.cfcaa7deaadf82c3ca583da7724f9eea3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.cfcaa7deaadf82c3ca583da7724f9eea3..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.cfcaa7deaadf82c3ca583da7724f9eea3.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.cfcaa7deaadf82c3ca583da7724f9eea3.ca0f1f9e562c2cdba25c7d0352229bcbe(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.cfcaa7deaadf82c3ca583da7724f9eea3.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.BeginInit()" NewName="A.c998964802b6dc59de517024e41f58d06..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.BeginInit()" NewName="A.c998964802b6dc59de517024e41f58d06..cctor()" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.BeginInit()" NewName="A.c998964802b6dc59de517024e41f58d06.Invoke(Object )" />
+<Entry OldName="Proxy_System.ComponentModel.ISupportInitialize.BeginInit()" NewName="A.c998964802b6dc59de517024e41f58d06.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.c1adce497117dcc26be127d3d9898b05e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.c1adce497117dcc26be127d3d9898b05e..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.c1adce497117dcc26be127d3d9898b05e.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.c1adce497117dcc26be127d3d9898b05e.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer..ctor(IContainer )" NewName="A.c83f3983293ff678880f8692b37279408..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer..ctor(IContainer )" NewName="A.c83f3983293ff678880f8692b37279408..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer..ctor(IContainer )" NewName="A.c83f3983293ff678880f8692b37279408.Invoke(IContainer )" />
+<Entry OldName="Proxy_System.Windows.Forms.Timer..ctor(IContainer )" NewName="A.c83f3983293ff678880f8692b37279408.ca0f1f9e562c2cdba25c7d0352229bcbe(IContainer )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel..ctor()" NewName="A.cb6135caaaad8c76c1f7a5e53367b46c2..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel..ctor()" NewName="A.cb6135caaaad8c76c1f7a5e53367b46c2..cctor()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel..ctor()" NewName="A.cb6135caaaad8c76c1f7a5e53367b46c2.Invoke()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePanel..ctor()" NewName="A.cb6135caaaad8c76c1f7a5e53367b46c2.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox..ctor()" NewName="A.c75d20a5cf57d4873dc18b7f73d2345ce..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox..ctor()" NewName="A.c75d20a5cf57d4873dc18b7f73d2345ce..cctor()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox..ctor()" NewName="A.c75d20a5cf57d4873dc18b7f73d2345ce.Invoke()" />
+<Entry OldName="Proxy_Siticone.UI.WinForms.SiticonePictureBox..ctor()" NewName="A.c75d20a5cf57d4873dc18b7f73d2345ce.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.c4a927de1c0b07c59748a5e167fe0254e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.c4a927de1c0b07c59748a5e167fe0254e..cctor()" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.c4a927de1c0b07c59748a5e167fe0254e.Invoke(Type )" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.c4a927de1c0b07c59748a5e167fe0254e.ca0f1f9e562c2cdba25c7d0352229bcbe(Type )" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.c54700a6442c07db267ee217d6729a71d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.c54700a6442c07db267ee217d6729a71d..cctor()" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.c54700a6442c07db267ee217d6729a71d.Invoke(RuntimeTypeHandle )" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.c54700a6442c07db267ee217d6729a71d.ca0f1f9e562c2cdba25c7d0352229bcbe(RuntimeTypeHandle )" />
+<Entry OldName="Proxy_System.ComponentModel.Container..ctor()" NewName="A.c15a602afb5bd991170f9c6503a983d41..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ComponentModel.Container..ctor()" NewName="A.c15a602afb5bd991170f9c6503a983d41..cctor()" />
+<Entry OldName="Proxy_System.ComponentModel.Container..ctor()" NewName="A.c15a602afb5bd991170f9c6503a983d41.Invoke()" />
+<Entry OldName="Proxy_System.ComponentModel.Container..ctor()" NewName="A.c15a602afb5bd991170f9c6503a983d41.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.ccf851b943bb1e1fa3357e764268a9c2b..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.ccf851b943bb1e1fa3357e764268a9c2b..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.ccf851b943bb1e1fa3357e764268a9c2b.Invoke(Form )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.ccf851b943bb1e1fa3357e764268a9c2b.ca0f1f9e562c2cdba25c7d0352229bcbe(Form )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A.c963497f1f044cd335df4c822ddfeec3c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A.c963497f1f044cd335df4c822ddfeec3c..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A.c963497f1f044cd335df4c822ddfeec3c.Invoke(Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A.c963497f1f044cd335df4c822ddfeec3c.ca0f1f9e562c2cdba25c7d0352229bcbe(Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.c496905f1fc62efca4b77ccb2b71ac41d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.c496905f1fc62efca4b77ccb2b71ac41d..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.c496905f1fc62efca4b77ccb2b71ac41d.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.c496905f1fc62efca4b77ccb2b71ac41d.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.c6b6ec7ace7ee07350d13199b36ebc952..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.c6b6ec7ace7ee07350d13199b36ebc952..cctor()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.c6b6ec7ace7ee07350d13199b36ebc952.Invoke(String , Assembly )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.c6b6ec7ace7ee07350d13199b36ebc952.ca0f1f9e562c2cdba25c7d0352229bcbe(String , Assembly )" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.c63367586b169a7ba611b2ab447055123..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.c63367586b169a7ba611b2ab447055123..cctor()" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.c63367586b169a7ba611b2ab447055123.Invoke(Object )" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.c63367586b169a7ba611b2ab447055123.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String , CultureInfo )" NewName="A.cb5522e1bd171107d64761fdf2d9a6ee4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String , CultureInfo )" NewName="A.cb5522e1bd171107d64761fdf2d9a6ee4..cctor()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String , CultureInfo )" NewName="A.cb5522e1bd171107d64761fdf2d9a6ee4.Invoke(Object , String , CultureInfo )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String , CultureInfo )" NewName="A.cb5522e1bd171107d64761fdf2d9a6ee4.ce932b5e403f2cb3f5567910603710a7e(Object , String , CultureInfo )" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get_ResourceManager()" NewName="A.c3c2a4f951be79da4dc0de7dbea8cdee6..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get_ResourceManager()" NewName="A.c3c2a4f951be79da4dc0de7dbea8cdee6..cctor()" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get_ResourceManager()" NewName="A.c3c2a4f951be79da4dc0de7dbea8cdee6.Invoke()" />
+<Entry OldName="Proxy_A.c76b9850f5b5ef4f6cd73e74a766a827b.get_ResourceManager()" NewName="A.c3c2a4f951be79da4dc0de7dbea8cdee6.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.c8653f9fe2debcbbcd5c74941ff49cdd7..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.c8653f9fe2debcbbcd5c74941ff49cdd7..cctor()" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.c8653f9fe2debcbbcd5c74941ff49cdd7.Invoke(SettingsBase )" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.c8653f9fe2debcbbcd5c74941ff49cdd7.ca0f1f9e562c2cdba25c7d0352229bcbe(SettingsBase )" />
+<Entry OldName="Proxy_Lmaowtf.Properties.Settings..ctor()" NewName="A.ce9fe2af2acffc60e964ed33ec7beab37..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Lmaowtf.Properties.Settings..ctor()" NewName="A.ce9fe2af2acffc60e964ed33ec7beab37..cctor()" />
+<Entry OldName="Proxy_Lmaowtf.Properties.Settings..ctor()" NewName="A.ce9fe2af2acffc60e964ed33ec7beab37.Invoke()" />
+<Entry OldName="Proxy_Lmaowtf.Properties.Settings..ctor()" NewName="A.ce9fe2af2acffc60e964ed33ec7beab37.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.Add(!0 , !1 )" NewName="A.cff932bdf82caf4f6256b369ec2bb5843..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.Add(!0 , !1 )" NewName="A.cff932bdf82caf4f6256b369ec2bb5843..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.Add(!0 , !1 )" NewName="A.cff932bdf82caf4f6256b369ec2bb5843.Invoke(Object , String , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.Add(!0 , !1 )" NewName="A.cff932bdf82caf4f6256b369ec2bb5843.ce932b5e403f2cb3f5567910603710a7e(Object , String , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;..ctor()" NewName="A.c6af165b3e6fedd4137b5da25fcef1939..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;..ctor()" NewName="A.c6af165b3e6fedd4137b5da25fcef1939..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;..ctor()" NewName="A.c6af165b3e6fedd4137b5da25fcef1939.Invoke()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;..ctor()" NewName="A.c6af165b3e6fedd4137b5da25fcef1939.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;..ctor()" NewName="A.c6aafe8409630826943d38b91a24fcff8..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;..ctor()" NewName="A.c6aafe8409630826943d38b91a24fcff8..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;..ctor()" NewName="A.c6aafe8409630826943d38b91a24fcff8.Invoke()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;..ctor()" NewName="A.c6aafe8409630826943d38b91a24fcff8.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c413142d95695af0126ee9e1cf9759ed4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c413142d95695af0126ee9e1cf9759ed4..cctor()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c413142d95695af0126ee9e1cf9759ed4.Invoke()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c413142d95695af0126ee9e1cf9759ed4.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_Name()" NewName="A.c37d8b9eee7572029c7f663ff283d92d9..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_Name()" NewName="A.c37d8b9eee7572029c7f663ff283d92d9..cctor()" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_Name()" NewName="A.c37d8b9eee7572029c7f663ff283d92d9.Invoke(Object )" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_Name()" NewName="A.c37d8b9eee7572029c7f663ff283d92d9.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.c452a87df6d280dbf06ceafa83f8bd59f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.c452a87df6d280dbf06ceafa83f8bd59f..cctor()" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.c452a87df6d280dbf06ceafa83f8bd59f.Invoke(String , String , StringComparison )" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.c452a87df6d280dbf06ceafa83f8bd59f.ca0f1f9e562c2cdba25c7d0352229bcbe(String , String , StringComparison )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_CultureInfo()" NewName="A.c934041cb3457c42a7ebb9fa28a64d3c3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_CultureInfo()" NewName="A.c934041cb3457c42a7ebb9fa28a64d3c3..cctor()" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_CultureInfo()" NewName="A.c934041cb3457c42a7ebb9fa28a64d3c3.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_CultureInfo()" NewName="A.c934041cb3457c42a7ebb9fa28a64d3c3.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Name()" NewName="A.c7c3342802bfb6b309407b2d73a0f12a5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Name()" NewName="A.c7c3342802bfb6b309407b2d73a0f12a5..cctor()" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Name()" NewName="A.c7c3342802bfb6b309407b2d73a0f12a5.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Name()" NewName="A.c7c3342802bfb6b309407b2d73a0f12a5.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetName()" NewName="A.c31b3c226c9ce842e50e672b45975a540..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetName()" NewName="A.c31b3c226c9ce842e50e672b45975a540..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetName()" NewName="A.c31b3c226c9ce842e50e672b45975a540.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetName()" NewName="A.c31b3c226c9ce842e50e672b45975a540.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.AppDomain.GetAssemblies()" NewName="A.c1ba0a3115d2f2f3f7f0fd38353d5ff05..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.GetAssemblies()" NewName="A.c1ba0a3115d2f2f3f7f0fd38353d5ff05..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.GetAssemblies()" NewName="A.c1ba0a3115d2f2f3f7f0fd38353d5ff05.Invoke(Object )" />
+<Entry OldName="Proxy_System.AppDomain.GetAssemblies()" NewName="A.c1ba0a3115d2f2f3f7f0fd38353d5ff05.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c5022c6935fefb71dd51ca43cdf5e2325..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c5022c6935fefb71dd51ca43cdf5e2325..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c5022c6935fefb71dd51ca43cdf5e2325.Invoke()" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c5022c6935fefb71dd51ca43cdf5e2325.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.ca92c642b6fb0df1a14064ab25262f567..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.ca92c642b6fb0df1a14064ab25262f567..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.ca92c642b6fb0df1a14064ab25262f567.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.ca92c642b6fb0df1a14064ab25262f567.ce932b5e403f2cb3f5567910603710a7e(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c04beb2e64787e698629a78581fb8240f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c04beb2e64787e698629a78581fb8240f..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c04beb2e64787e698629a78581fb8240f.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c04beb2e64787e698629a78581fb8240f.ce932b5e403f2cb3f5567910603710a7e(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cfb6d15d9b5cb22e4d1c34220f461c5de..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cfb6d15d9b5cb22e4d1c34220f461c5de..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cfb6d15d9b5cb22e4d1c34220f461c5de.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cfb6d15d9b5cb22e4d1c34220f461c5de.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c68b46ca031f70367eda4fa69c03a8a99..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c68b46ca031f70367eda4fa69c03a8a99..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c68b46ca031f70367eda4fa69c03a8a99.Invoke(Object , Int64 )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c68b46ca031f70367eda4fa69c03a8a99.ce932b5e403f2cb3f5567910603710a7e(Object , Int64 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor()" NewName="A.c263ebc2988fd2717ff6f44a9abe30559..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor()" NewName="A.c263ebc2988fd2717ff6f44a9abe30559..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor()" NewName="A.c263ebc2988fd2717ff6f44a9abe30559.Invoke()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor()" NewName="A.c263ebc2988fd2717ff6f44a9abe30559.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c1663e3aa446dc87d97f69386ceddd758..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c1663e3aa446dc87d97f69386ceddd758..cctor()" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c1663e3aa446dc87d97f69386ceddd758.Invoke(Stream , CompressionMode )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c1663e3aa446dc87d97f69386ceddd758.ca0f1f9e562c2cdba25c7d0352229bcbe(Stream , CompressionMode )" />
+<Entry OldName="Proxy_System.String.EndsWith(String )" NewName="A.c24eaa674878da7ef2f7d6ea99759d9fb..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.EndsWith(String )" NewName="A.c24eaa674878da7ef2f7d6ea99759d9fb..cctor()" />
+<Entry OldName="Proxy_System.String.EndsWith(String )" NewName="A.c24eaa674878da7ef2f7d6ea99759d9fb.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.EndsWith(String )" NewName="A.c24eaa674878da7ef2f7d6ea99759d9fb.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.cd3d425e1a82020750c5b552375c11864..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.cd3d425e1a82020750c5b552375c11864..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.cd3d425e1a82020750c5b552375c11864.Invoke()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.cd3d425e1a82020750c5b552375c11864.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.TryGetValue(!0 , !1&amp; )" NewName="A.ced74b091d1211af78af1507cf00e4982..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.TryGetValue(!0 , !1&amp; )" NewName="A.ced74b091d1211af78af1507cf00e4982..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.TryGetValue(!0 , !1&amp; )" NewName="A.ced74b091d1211af78af1507cf00e4982.Invoke(Object , String , String&amp; )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.String&gt;.TryGetValue(!0 , !1&amp; )" NewName="A.ced74b091d1211af78af1507cf00e4982.ce932b5e403f2cb3f5567910603710a7e(Object , String , String&amp; )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.c8dcdd2e616ea5b3f0508dd603b12040a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.c8dcdd2e616ea5b3f0508dd603b12040a..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.c8dcdd2e616ea5b3f0508dd603b12040a.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.c8dcdd2e616ea5b3f0508dd603b12040a.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cb3aa0b254bc259deb5d8d611224b31c6..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cb3aa0b254bc259deb5d8d611224b31c6..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cb3aa0b254bc259deb5d8d611224b31c6.Invoke(Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cb3aa0b254bc259deb5d8d611224b31c6.ca0f1f9e562c2cdba25c7d0352229bcbe(Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.c3ae8d3eab8c3c86a7445e60c02ff96f0..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.c3ae8d3eab8c3c86a7445e60c02ff96f0..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.c3ae8d3eab8c3c86a7445e60c02ff96f0.Invoke(Byte[] , Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.c3ae8d3eab8c3c86a7445e60c02ff96f0.ca0f1f9e562c2cdba25c7d0352229bcbe(Byte[] , Byte[] )" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String )" NewName="A.cfe01bcff8fced5253d80beac1f2f6768..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String )" NewName="A.cfe01bcff8fced5253d80beac1f2f6768..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String )" NewName="A.cfe01bcff8fced5253d80beac1f2f6768.Invoke(String , String , String )" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String )" NewName="A.cfe01bcff8fced5253d80beac1f2f6768.ca0f1f9e562c2cdba25c7d0352229bcbe(String , String , String )" />
+<Entry OldName="Proxy_System.String.IsNullOrEmpty(String )" NewName="A.c72858af6aac1eb3909ad92fdc053130e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IsNullOrEmpty(String )" NewName="A.c72858af6aac1eb3909ad92fdc053130e..cctor()" />
+<Entry OldName="Proxy_System.String.IsNullOrEmpty(String )" NewName="A.c72858af6aac1eb3909ad92fdc053130e.Invoke(String )" />
+<Entry OldName="Proxy_System.String.IsNullOrEmpty(String )" NewName="A.c72858af6aac1eb3909ad92fdc053130e.ca0f1f9e562c2cdba25c7d0352229bcbe(String )" />
+<Entry OldName="Proxy_System.String.ToLowerInvariant()" NewName="A.c8d3b88b53a54905b9bd7cb563c7ecfc4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.ToLowerInvariant()" NewName="A.c8d3b88b53a54905b9bd7cb563c7ecfc4..cctor()" />
+<Entry OldName="Proxy_System.String.ToLowerInvariant()" NewName="A.c8d3b88b53a54905b9bd7cb563c7ecfc4.Invoke(Object )" />
+<Entry OldName="Proxy_System.String.ToLowerInvariant()" NewName="A.c8d3b88b53a54905b9bd7cb563c7ecfc4.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(AssemblyName )" NewName="A.c92a4f02d56f0d3d21146d41eda9d1b23..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(AssemblyName )" NewName="A.c92a4f02d56f0d3d21146d41eda9d1b23..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(AssemblyName )" NewName="A.c92a4f02d56f0d3d21146d41eda9d1b23.Invoke(AssemblyName )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(AssemblyName )" NewName="A.c92a4f02d56f0d3d21146d41eda9d1b23.ca0f1f9e562c2cdba25c7d0352229bcbe(AssemblyName )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Flags()" NewName="A.cf9ac14ee9c74d23708c8cc2a4ce8c0c5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Flags()" NewName="A.cf9ac14ee9c74d23708c8cc2a4ce8c0c5..cctor()" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Flags()" NewName="A.cf9ac14ee9c74d23708c8cc2a4ce8c0c5.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName.get_Flags()" NewName="A.cf9ac14ee9c74d23708c8cc2a4ce8c0c5.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c38520f5f27ab1fbd76e0bec11a6f0c25..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c38520f5f27ab1fbd76e0bec11a6f0c25..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c38520f5f27ab1fbd76e0bec11a6f0c25.Invoke(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c38520f5f27ab1fbd76e0bec11a6f0c25.ca0f1f9e562c2cdba25c7d0352229bcbe(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.set_Item(!0 , !1 )" NewName="A.c89800d4306250ea5471555782fb0e3cb..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.set_Item(!0 , !1 )" NewName="A.c89800d4306250ea5471555782fb0e3cb..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.set_Item(!0 , !1 )" NewName="A.c89800d4306250ea5471555782fb0e3cb.Invoke(Object , String , Boolean )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.set_Item(!0 , !1 )" NewName="A.c89800d4306250ea5471555782fb0e3cb.ce932b5e403f2cb3f5567910603710a7e(Object , String , Boolean )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.cb90027a7e29afc1e7e25661212e2d97a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.cb90027a7e29afc1e7e25661212e2d97a..cctor()" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.cb90027a7e29afc1e7e25661212e2d97a.Invoke(Object )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.cb90027a7e29afc1e7e25661212e2d97a.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object , Boolean&amp; )" NewName="A.cfa14376f27268467a290c857f385164d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object , Boolean&amp; )" NewName="A.cfa14376f27268467a290c857f385164d..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object , Boolean&amp; )" NewName="A.cfa14376f27268467a290c857f385164d.Invoke(Object , Boolean&amp; )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object , Boolean&amp; )" NewName="A.cfa14376f27268467a290c857f385164d.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , Boolean&amp; )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName..ctor(String )" NewName="A.c8860e204fa86290445426fd3198aeb25..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName..ctor(String )" NewName="A.c8860e204fa86290445426fd3198aeb25..cctor()" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName..ctor(String )" NewName="A.c8860e204fa86290445426fd3198aeb25.Invoke(String )" />
+<Entry OldName="Proxy_System.Reflection.AssemblyName..ctor(String )" NewName="A.c8860e204fa86290445426fd3198aeb25.ca0f1f9e562c2cdba25c7d0352229bcbe(String )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.ContainsKey(!0 )" NewName="A.ccc2b848ce050a4424fa556aa0a7b1836..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.ContainsKey(!0 )" NewName="A.ccc2b848ce050a4424fa556aa0a7b1836..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.ContainsKey(!0 )" NewName="A.ccc2b848ce050a4424fa556aa0a7b1836.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;System.String,System.Boolean&gt;.ContainsKey(!0 )" NewName="A.ccc2b848ce050a4424fa556aa0a7b1836.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.c4acc4f11516a5fe1fb8fb42a0c7911cb..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.c4acc4f11516a5fe1fb8fb42a0c7911cb..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.c4acc4f11516a5fe1fb8fb42a0c7911cb.Invoke(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.c4acc4f11516a5fe1fb8fb42a0c7911cb.ce932b5e403f2cb3f5567910603710a7e(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.Threading.Interlocked.Exchange(Int32&amp; , Int32 )" NewName="A.cc1ff091638edc5e03f6dfc87e9280b1f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Interlocked.Exchange(Int32&amp; , Int32 )" NewName="A.cc1ff091638edc5e03f6dfc87e9280b1f..cctor()" />
+<Entry OldName="Proxy_System.Threading.Interlocked.Exchange(Int32&amp; , Int32 )" NewName="A.cc1ff091638edc5e03f6dfc87e9280b1f.Invoke(Int32&amp; , Int32 )" />
+<Entry OldName="Proxy_System.Threading.Interlocked.Exchange(Int32&amp; , Int32 )" NewName="A.cc1ff091638edc5e03f6dfc87e9280b1f.ca0f1f9e562c2cdba25c7d0352229bcbe(Int32&amp; , Int32 )" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.c36c308e931fab9d0db3b6b5690bb884f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.c36c308e931fab9d0db3b6b5690bb884f..cctor()" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.c36c308e931fab9d0db3b6b5690bb884f.Invoke(String , String , Boolean )" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.c36c308e931fab9d0db3b6b5690bb884f.ca0f1f9e562c2cdba25c7d0352229bcbe(String , String , Boolean )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.ccdcec2ac1faa1b286cddac6f148444eb..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.ccdcec2ac1faa1b286cddac6f148444eb..cctor()" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.ccdcec2ac1faa1b286cddac6f148444eb.Invoke(Object )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.ccdcec2ac1faa1b286cddac6f148444eb.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.ca09dee32576050576949fb503a43b155..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.ca09dee32576050576949fb503a43b155..cctor()" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.ca09dee32576050576949fb503a43b155.Invoke(Object )" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.ca09dee32576050576949fb503a43b155.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cdfc1b65cd3350a50a69e62a841a59f1f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cdfc1b65cd3350a50a69e62a841a59f1f..cctor()" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cdfc1b65cd3350a50a69e62a841a59f1f.Invoke(Int32 )" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cdfc1b65cd3350a50a69e62a841a59f1f.ca0f1f9e562c2cdba25c7d0352229bcbe(Int32 )" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c8074c4122b2adf136e10cb4d9b1b7c97..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c8074c4122b2adf136e10cb4d9b1b7c97..cctor()" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c8074c4122b2adf136e10cb4d9b1b7c97.Invoke(String )" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c8074c4122b2adf136e10cb4d9b1b7c97.ca0f1f9e562c2cdba25c7d0352229bcbe(String )" />
+<Entry OldName="Proxy_System.String.Format(String , Object , Object )" NewName="A.c2dee8542d25bc224b306276f958a9405..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Format(String , Object , Object )" NewName="A.c2dee8542d25bc224b306276f958a9405..cctor()" />
+<Entry OldName="Proxy_System.String.Format(String , Object , Object )" NewName="A.c2dee8542d25bc224b306276f958a9405.Invoke(String , Object , Object )" />
+<Entry OldName="Proxy_System.String.Format(String , Object , Object )" NewName="A.c2dee8542d25bc224b306276f958a9405.ca0f1f9e562c2cdba25c7d0352229bcbe(String , Object , Object )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c4ce7b5c6c3ec9be352b376e4d9af0c39.Invoke(c31511800a3a3c59ec6037ba68f3c68b2 lpEnumFunc, IntPtr lParam)" NewName="A.cb9f1c6419c300ec5b13a4fb28c8e4483..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c4ce7b5c6c3ec9be352b376e4d9af0c39.Invoke(c31511800a3a3c59ec6037ba68f3c68b2 lpEnumFunc, IntPtr lParam)" NewName="A.cb9f1c6419c300ec5b13a4fb28c8e4483..cctor()" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c4ce7b5c6c3ec9be352b376e4d9af0c39.Invoke(c31511800a3a3c59ec6037ba68f3c68b2 lpEnumFunc, IntPtr lParam)" NewName="A.cb9f1c6419c300ec5b13a4fb28c8e4483.Invoke(Object , c31511800a3a3c59ec6037ba68f3c68b2 lpEnumFunc, IntPtr lParam)" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c4ce7b5c6c3ec9be352b376e4d9af0c39.Invoke(c31511800a3a3c59ec6037ba68f3c68b2 lpEnumFunc, IntPtr lParam)" NewName="A.cb9f1c6419c300ec5b13a4fb28c8e4483.ce932b5e403f2cb3f5567910603710a7e(Object , c31511800a3a3c59ec6037ba68f3c68b2 , IntPtr )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c27bc5ea1fde8dc93ce4c39cb471f2286.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c21024ab55063c77b88b5dace2abb25db..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c27bc5ea1fde8dc93ce4c39cb471f2286.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c21024ab55063c77b88b5dace2abb25db..cctor()" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c27bc5ea1fde8dc93ce4c39cb471f2286.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c21024ab55063c77b88b5dace2abb25db.Invoke(Object , IntPtr hProcess, Int32&amp; pbDebuggerPresent)" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.c27bc5ea1fde8dc93ce4c39cb471f2286.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c21024ab55063c77b88b5dace2abb25db.ce932b5e403f2cb3f5567910603710a7e(Object , IntPtr , Int32&amp; )" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.c8717b4eb515b2887c8ca9c1a6b01eb9d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.c8717b4eb515b2887c8ca9c1a6b01eb9d..cctor()" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.c8717b4eb515b2887c8ca9c1a6b01eb9d.Invoke(IntPtr , IntPtr )" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.c8717b4eb515b2887c8ca9c1a6b01eb9d.ca0f1f9e562c2cdba25c7d0352229bcbe(IntPtr , IntPtr )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.cd8f24490d1423cb6a0c669639e587079.Invoke()" NewName="A.cb2657333f44769a0fec4cc62328ae559..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.cd8f24490d1423cb6a0c669639e587079.Invoke()" NewName="A.cb2657333f44769a0fec4cc62328ae559..cctor()" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.cd8f24490d1423cb6a0c669639e587079.Invoke()" NewName="A.cb2657333f44769a0fec4cc62328ae559.Invoke(Object )" />
+<Entry OldName="Proxy_A.c5fa18b7b0778f01acc86138beeff1b3b.cd8f24490d1423cb6a0c669639e587079.Invoke()" NewName="A.cb2657333f44769a0fec4cc62328ae559.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.cb61fb0f77aa324e2ba09bfe21d01076c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.cb61fb0f77aa324e2ba09bfe21d01076c..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.cb61fb0f77aa324e2ba09bfe21d01076c.Invoke()" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.cb61fb0f77aa324e2ba09bfe21d01076c.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.c1ec6a39e8342cd6831eb2f2a9da6f700..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.c1ec6a39e8342cd6831eb2f2a9da6f700..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.c1ec6a39e8342cd6831eb2f2a9da6f700.Invoke(Int32 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.c1ec6a39e8342cd6831eb2f2a9da6f700.ca0f1f9e562c2cdba25c7d0352229bcbe(Int32 )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.ccdb606d172549642eeb8e049527196dd..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.ccdb606d172549642eeb8e049527196dd..cctor()" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.ccdb606d172549642eeb8e049527196dd.Invoke(Object , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.ccdb606d172549642eeb8e049527196dd.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.ca650a138a7a2c6b446ebf693b0cd01c7..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.ca650a138a7a2c6b446ebf693b0cd01c7..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.ca650a138a7a2c6b446ebf693b0cd01c7.Invoke(Object , Char )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.ca650a138a7a2c6b446ebf693b0cd01c7.ce932b5e403f2cb3f5567910603710a7e(Object , Char )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.ccdbb5260d9e196116285e09b25b9f684..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.ccdbb5260d9e196116285e09b25b9f684..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.ccdbb5260d9e196116285e09b25b9f684.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.ccdbb5260d9e196116285e09b25b9f684.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.c9d5fbaac3da89b9a19d3996b037167fe..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.c9d5fbaac3da89b9a19d3996b037167fe..cctor()" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.c9d5fbaac3da89b9a19d3996b037167fe.Invoke(Array )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.c9d5fbaac3da89b9a19d3996b037167fe.ca0f1f9e562c2cdba25c7d0352229bcbe(Array )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c2636165b9ea2689f12d49a9074e00b8c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c2636165b9ea2689f12d49a9074e00b8c..cctor()" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c2636165b9ea2689f12d49a9074e00b8c.Invoke(Int64 )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c2636165b9ea2689f12d49a9074e00b8c.ca0f1f9e562c2cdba25c7d0352229bcbe(Int64 )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.cb3e4b595347c866e98bc20c511a99626..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.cb3e4b595347c866e98bc20c511a99626..cctor()" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.cb3e4b595347c866e98bc20c511a99626.Invoke(String , NumberStyles )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.cb3e4b595347c866e98bc20c511a99626.ca0f1f9e562c2cdba25c7d0352229bcbe(String , NumberStyles )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c1038cb71c5267e6142a714a025c4dbd8..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c1038cb71c5267e6142a714a025c4dbd8..cctor()" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c1038cb71c5267e6142a714a025c4dbd8.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c1038cb71c5267e6142a714a025c4dbd8.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c34d545e033960266cfd387edf3ad6887..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c34d545e033960266cfd387edf3ad6887..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c34d545e033960266cfd387edf3ad6887.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c34d545e033960266cfd387edf3ad6887.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.c29d2ae5746ea3a6d17cb331b12c21f5d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.c29d2ae5746ea3a6d17cb331b12c21f5d..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.c29d2ae5746ea3a6d17cb331b12c21f5d.Invoke(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.c29d2ae5746ea3a6d17cb331b12c21f5d.ca0f1f9e562c2cdba25c7d0352229bcbe(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.ce026fd0b07c4327fe52919148e5701df..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.ce026fd0b07c4327fe52919148e5701df..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.ce026fd0b07c4327fe52919148e5701df.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.ce026fd0b07c4327fe52919148e5701df.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.cf65b9c70022549df66c26c3b616e25fe..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.cf65b9c70022549df66c26c3b616e25fe..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.cf65b9c70022549df66c26c3b616e25fe.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.cf65b9c70022549df66c26c3b616e25fe.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.cd1fba576ada7422433c3a244505676ce..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.cd1fba576ada7422433c3a244505676ce..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.cd1fba576ada7422433c3a244505676ce.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.cd1fba576ada7422433c3a244505676ce.ce932b5e403f2cb3f5567910603710a7e(Object , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.c8fcb0c2306c547fc9d6e0401828d2c1e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.c8fcb0c2306c547fc9d6e0401828d2c1e..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.c8fcb0c2306c547fc9d6e0401828d2c1e.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.c8fcb0c2306c547fc9d6e0401828d2c1e.ce932b5e403f2cb3f5567910603710a7e(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cd4d0905c3567d8691f4966f809ca8661..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cd4d0905c3567d8691f4966f809ca8661..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cd4d0905c3567d8691f4966f809ca8661.Invoke(Object , Byte[] , Int32 , Int32 , Byte[] , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cd4d0905c3567d8691f4966f809ca8661.ce932b5e403f2cb3f5567910603710a7e(Object , Byte[] , Int32 , Int32 , Byte[] , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cf7df9d5ef100065eb36e22f11baef97c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cf7df9d5ef100065eb36e22f11baef97c..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cf7df9d5ef100065eb36e22f11baef97c.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cf7df9d5ef100065eb36e22f11baef97c.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.cef69b5b0ee6aa50ad55442bd98a96b43..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.cef69b5b0ee6aa50ad55442bd98a96b43..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.cef69b5b0ee6aa50ad55442bd98a96b43.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.cef69b5b0ee6aa50ad55442bd98a96b43.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c5e9a52d361664e855b2df4e28965b457..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c5e9a52d361664e855b2df4e28965b457..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c5e9a52d361664e855b2df4e28965b457.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c5e9a52d361664e855b2df4e28965b457.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.c24a0154beeb63da24be19afbf15f4c26..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.c24a0154beeb63da24be19afbf15f4c26..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.c24a0154beeb63da24be19afbf15f4c26.Invoke(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.c24a0154beeb63da24be19afbf15f4c26.ce932b5e403f2cb3f5567910603710a7e(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ce731e7eadc88c289663e6b6ea934ceab..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ce731e7eadc88c289663e6b6ea934ceab..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ce731e7eadc88c289663e6b6ea934ceab.Invoke(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ce731e7eadc88c289663e6b6ea934ceab.ce932b5e403f2cb3f5567910603710a7e(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c838b357ac48a8f3c5399106ed30e1654..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c838b357ac48a8f3c5399106ed30e1654..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c838b357ac48a8f3c5399106ed30e1654.Invoke()" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c838b357ac48a8f3c5399106ed30e1654.ca0f1f9e562c2cdba25c7d0352229bcbe()" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.cc4e054c316fac9ad887a20f194243970..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.cc4e054c316fac9ad887a20f194243970..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.cc4e054c316fac9ad887a20f194243970.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.cc4e054c316fac9ad887a20f194243970.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.c8e613c4f421e290e25041c0dca7a745d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.c8e613c4f421e290e25041c0dca7a745d..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.c8e613c4f421e290e25041c0dca7a745d.Invoke(String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.c8e613c4f421e290e25041c0dca7a745d.ca0f1f9e562c2cdba25c7d0352229bcbe(String )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c69fe80196cefc1c20a4e86a044d5a5c2..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c69fe80196cefc1c20a4e86a044d5a5c2..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c69fe80196cefc1c20a4e86a044d5a5c2.Invoke(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c69fe80196cefc1c20a4e86a044d5a5c2.ce932b5e403f2cb3f5567910603710a7e(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.c2354b4c2df51d1a4bdced08b5ca0fee3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.c2354b4c2df51d1a4bdced08b5ca0fee3..cctor()" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.c2354b4c2df51d1a4bdced08b5ca0fee3.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.c2354b4c2df51d1a4bdced08b5ca0fee3.ce932b5e403f2cb3f5567910603710a7e(Object , String )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.cccc28fb1d9ec85d8a3ddc1fe7d0902cc..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.cccc28fb1d9ec85d8a3ddc1fe7d0902cc..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.cccc28fb1d9ec85d8a3ddc1fe7d0902cc.Invoke(Object , Object , Object )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.cccc28fb1d9ec85d8a3ddc1fe7d0902cc.ca0f1f9e562c2cdba25c7d0352229bcbe(Object , Object , Object )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.ca1bad6bd250eeda13a104d94f4d3db64..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.ca1bad6bd250eeda13a104d94f4d3db64..cctor()" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.ca1bad6bd250eeda13a104d94f4d3db64.Invoke(String , String )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.ca1bad6bd250eeda13a104d94f4d3db64.ca0f1f9e562c2cdba25c7d0352229bcbe(String , String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c385102e710e51a82b3d633632b0631fc..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c385102e710e51a82b3d633632b0631fc..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c385102e710e51a82b3d633632b0631fc.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c385102e710e51a82b3d633632b0631fc.ce932b5e403f2cb3f5567910603710a7e(Object )" />
+<Entry OldName="Lmaowtf.Form1" NewName="A.cb2fb9d78c552919d81930b5541db8df5" />
+<Entry OldName="Lmaowtf.Program" NewName="A.c31970092a71789a261a4fa0c24f1eb5f" />
+<Entry OldName="Lmaowtf.Properties.Resources" NewName="A.c76b9850f5b5ef4f6cd73e74a766a827b" />
+<Entry OldName="Costura.AssemblyLoader" NewName="A.ce967c4ea3e6d4bf6f18549f3e6b733ce" />
+<Entry OldName="Lmaowtf_ProcessedByFody" NewName="A.c5694270f8bd73e50518a019aab623e90" />
+<Entry OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\vape.cs" NewName="File0" />
+<Entry OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Form1.Designer.cs" NewName="File1" />
+<Entry OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Program.cs" NewName="File2" />
+<Entry OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Properties\Resources.Designer.cs" NewName="File3" />
+<Entry OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Properties\Settings.Designer.cs" NewName="File4" />
+<Entry OldName="C:\CI_WS\Ws\198629\Source\Costura_Fody\src\Costura.Template\Common.cs" NewName="File5" />
+<Entry OldName="C:\CI_WS\Ws\198629\Source\Costura_Fody\src\Costura.Template\ILTemplate.cs" NewName="File6" />
+<Assembly Name="Lmaowtf"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name=".cctor" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Lmaowtf.Form1" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="Form1_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663300" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663301" Name="timer2_Tick" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663302" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663303" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108865" Name="components" />
+<Field Token="67108866" Name="siticonePictureBox1" />
+<Field Token="67108867" Name="siticonePanel1" />
+<Field Token="67108868" Name="siticonePanel2" />
+<Field Token="67108869" Name="siticonePanel3" />
+<Field Token="67108870" Name="timer1" />
+<Field Token="67108871" Name="timer2" />
+<Field Token="67108872" Name="label1" />
+<Type Token="33554436" Name="Lmaowtf.Program" />
+<Method Token="100663305" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554437" Name="Lmaowtf.Properties.Resources" />
+<Method Token="100663306" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663307" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663308" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663309" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663310" Name="get__4FACFCC_converted" Variables="" ParamCnt="0" />
+<Field Token="67108873" Name="resourceMan" />
+<Field Token="67108874" Name="resourceCulture" />
+<Type Token="33554439" Name="Lmaowtf.Properties.Settings" />
+<Method Token="100663317" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663318" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663319" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108876" Name="defaultInstance" />
+<Type Token="33554440" Name="Costura.AssemblyLoader" />
+<Method Token="100663320" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663321" Name="CultureToString" Variables="culture;" ParamCnt="1" />
+<Method Token="100663322" Name="ReadExistingAssembly" Variables="name;currentDomain;assemblies;V_2;V_3;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663323" Name="CopyTo" Variables="source;destination;array;count;" ParamCnt="2" />
+<Method Token="100663324" Name="LoadStream" Variables="fullName;executingAssembly;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663325" Name="LoadStream" Variables="resourceNames;name;value;" ParamCnt="2" />
+<Method Token="100663326" Name="ReadStream" Variables="stream;data;" ParamCnt="1" />
+<Method Token="100663327" Name="ReadFromEmbeddedResources" Variables="assemblyNames;symbolNames;requestedAssemblyName;name;assemblyData;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663328" Name="ResolveAssembly" Variables="sender;e;requestedAssemblyName;assembly;V_2;V_3;V_4;V_5;V_6;" ParamCnt="2" />
+<Method Token="100663329" Name="Attach" Variables="currentDomain;" ParamCnt="0" />
+<Field Token="67108877" Name="nullCacheLock" />
+<Field Token="67108878" Name="nullCache" />
+<Field Token="67108879" Name="assemblyNames" />
+<Field Token="67108880" Name="symbolNames" />
+<Field Token="67108881" Name="isAttached" />
+<Type Token="33554441" Name="Lmaowtf_ProcessedByFody" />
+<Field Token="67108882" Name="FodyVersion" />
+<Field Token="67108883" Name="Costura" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663304" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\vape.cs" NewName="File0" />
+<File OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Form1.Designer.cs" NewName="File1" />
+<File OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Program.cs" NewName="File2" />
+<File OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Properties\Resources.Designer.cs" NewName="File3" />
+<File OldName="C:\Users\3RSHOP\source\repos\VapeV4 Crack\Lmaowtf\Properties\Settings.Designer.cs" NewName="File4" />
+<File OldName="C:\CI_WS\Ws\198629\Source\Costura_Fody\src\Costura.Template\Common.cs" NewName="File5" />
+<File OldName="C:\CI_WS\Ws\198629\Source\Costura_Fody\src\Costura.Template\ILTemplate.cs" NewName="File6" />
+</Mappings>
